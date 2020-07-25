@@ -1,6 +1,7 @@
-### Hi there 👋
+# Who Who What What?
 
 I like 🍰.
+
 
 <!--
 **jennz0r/jennz0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Things I Made
+
+* [Developers Developers](http://developersdevelope.rs/)
+* [Click OK to ok](http://clickok.site/)
+
 -->
